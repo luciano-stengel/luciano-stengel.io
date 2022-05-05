@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #4B6982;
+
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -46,12 +46,7 @@
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
-    text-align: center;
-}
 
-.profession {
-    color: #FDB44B;
-    font-size: 15px;
     text-transform: uppercase;
     text-align: center;
 }
@@ -69,7 +64,7 @@
 .contact-info ul li,
 .references ul li {
     padding: .4rem 0;
-    color: #D6DBDF;
+ main
 }
 
 .contact-info ul li i,
