@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-
+ main
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-
+ main
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -46,7 +46,7 @@
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
-
+ main
     text-transform: uppercase;
     text-align: center;
 }
